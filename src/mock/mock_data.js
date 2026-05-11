@@ -14,6 +14,20 @@ export const mockData = {
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
+          "id": "site-1778476743333",
+          "name": "HE",
+          "url": "https://dns.he.net/",
+          "description": "提供免费的 DNS 域名解析服务",
+          "icon": "https://www.faviconextractor.com/favicon/dns.he.net"
+        },
+        {
+          "id": "site-1778476844615",
+          "name": "Edgeone",
+          "url": "https://edgeone.ai/zh/login?s_url=https://console.tencentcloud.com/edgeone",
+          "description": "EdgeOne Pages 基于云边一体化架构，融合托管、加速、计算与集成能力，让每一次上线都更快更省力，适用于一切你想发布到世界的应用",
+          "icon": "https://www.faviconextractor.com/favicon/edgeone.ai"
+        },
+        {
           "id": "vercel",
           "name": "Vercel",
           "url": "https://vercel.com",
@@ -54,6 +68,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1778476805417",
+          "name": "ClouDNS",
+          "url": "https://www.cloudns.net/",
+          "description": "ClouDNS提供永久免费域名申请，支持二级域名解析、DDNS等功能，适合个人建站、NAS远程访问等需求",
+          "icon": "https://www.faviconextractor.com/favicon/www.cloudns.net"
         }
       ]
     },
